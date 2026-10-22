@@ -1,4 +1,4 @@
-# LancerHacks Workshop 1 was here.
+# LancerHacks Workshop 1 was here. 
 
-bruh
+Claude: I like writing programs.
 Mr. Freeze: Freezing Batman
